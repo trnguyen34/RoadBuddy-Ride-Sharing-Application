@@ -1,0 +1,11 @@
+.DS_Store
+.venv
+.env
+.vscode
+__pycache__/
+api.tsx
+firebase-configs.js
+firebase_config.py
+firebase-config.json
+frontend/RoadBuddy/configs/base-url.tsx
+frontend/RoadBuddy/configs/base-url.tsx
